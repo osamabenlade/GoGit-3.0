@@ -1,1 +1,3 @@
-Hello! Everyone I am Abhishek from IIIT Allahabad contributing first time in open code 
+Hello!
+This is Rishika Boinapally
+I like singing, literature, dancing etc

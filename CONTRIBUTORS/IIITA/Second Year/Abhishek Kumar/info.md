@@ -1,1 +1,2 @@
-Hello! Everyone I am Abhishek Kumar from IIIT Allahabad. This is my first time contributing in open code.
+Hello! Everyone Abhishek this side from IIIT Allahabad.
+Live Link : https://abhi5h6k.github.io/G0git/
